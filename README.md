@@ -3,11 +3,12 @@
 Library to use Raspberry Pi Sense Hat. Written in Golang. 
 
 # Basic Usage:
-Install lib with 
+
+Installation: 
 ```bash
-go get "github.com/akshaynawale/gorpisense/joyst"
+go get github.com/akshaynawale/gorpisense/joyst
 ```
-Import the lib in your file with:
+Import the library in your program file with:
 ```go
 import "github.com/akshaynawale/gorpisense/joyst"
 ```
